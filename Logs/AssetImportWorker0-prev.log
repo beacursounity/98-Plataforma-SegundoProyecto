@@ -1,0 +1,232 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity2020.2.3f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Volumes/Mac HD 1T/Unity/Curso CFTIC - Juegos/98-Plataforma-SegundoProyecto
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49678
+Successfully changed project path to: /Volumes/Mac HD 1T/Unity/Curso CFTIC - Juegos/98-Plataforma-SegundoProyecto
+/Volumes/Mac HD 1T/Unity/Curso CFTIC - Juegos/98-Plataforma-SegundoProyecto
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 155.96 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.3f1 (8ff31bc5bf5b)
+[Subsystems] Discovering subsystems at path /Applications/Unity2020.2.3f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Volumes/Mac HD 1T/Unity/Curso CFTIC - Juegos/98-Plataforma-SegundoProyecto/Assets
+GfxDevice: creating device client; threaded=0
+Renderer: NVIDIA GeForce 9400M OpenGL Engine
+Vendor:   NVIDIA Corporation
+Version:  3.3 NVIDIA-10.4.14 310.90.30.05b27
+GLES:     0
+ GL_ARB_blend_func_extended GL_ARB_ES2_compatibility GL_ARB_explicit_attrib_location GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_occlusion_query2 GL_ARB_sampler_objects GL_ARB_separate_shader_objects GL_ARB_shader_bit_encoding GL_ARB_shading_language_include GL_ARB_texture_rgb10_a2ui GL_ARB_texture_storage GL_ARB_texture_swizzle GL_ARB_timer_query GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_EXT_debug_label GL_EXT_debug_marker GL_EXT_depth_bounds_test GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_mirror_clamp GL_EXT_texture_sRGB_decode GL_APPLE_client_storage GL_APPLE_container_object_shareable GL_APPLE_flush_render GL_APPLE_object_purgeable GL_APPLE_rgb_422 GL_APPLE_row_bytes GL_APPLE_texture_range GL_ATI_texture_mirror_once GL_NV_texture_barrier
+OPENGL LOG: Creating OpenGL 3.3 graphics device ; Context level  <OpenGL 3.3> ; Context handle -443940864
+Initialize mono
+Mono path[0] = '/Applications/Unity2020.2.3f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity2020.2.3f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity2020.2.3f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56145
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity2020.2.3f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.003746 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 101.08 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.868 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.055169 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.607 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity2020.2.3f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.17 seconds
+Refreshing native plugins compatible for Editor in 1.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1653 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 151.5 MB.
+System memory in use after: 151.6 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2083.
+Total: 5.982121 ms (FindLiveObjects: 0.485476 ms CreateObjectMapping: 0.119050 ms MarkObjects: 5.199750 ms  DeleteObjects: 0.175428 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/_GameAssets/Animation/PlataformaVerticalMovil.anim
+  artifactKey: Guid(6de12c5cdd70d7f48951be75f0199604) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_GameAssets/Animation/PlataformaVerticalMovil.anim using Guid(6de12c5cdd70d7f48951be75f0199604) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc8ed9ff3b36b8c82d8bd5c9e59609d3') in 1.407720 seconds
+  Import took 1.449431 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000402 seconds.
+  path: Assets/_GameAssets/Animation/PlataformaVerticalMovil (2).controller
+  artifactKey: Guid(10c8842fc05e9f140a8ab1e6f5261f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_GameAssets/Animation/PlataformaVerticalMovil (2).controller using Guid(10c8842fc05e9f140a8ab1e6f5261f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '794f43df97f1930ed94967320df3fb8e') in 0.479317 seconds
+  Import took 0.528979 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 991.860545 seconds.
+  path: Assets/_GameAssets/Sprite/Tiles1/tileBrown_25.png
+  artifactKey: Guid(4451a84c6016e694c9220893fbb5901b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_GameAssets/Sprite/Tiles1/tileBrown_25.png using Guid(4451a84c6016e694c9220893fbb5901b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2e89f763cd232d8e3c4a4a3818525a1') in 1.332658 seconds
+  Import took 1.373231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.731612 seconds.
+  path: Assets/_GameAssets/Sprite/Tiles1/tileBrown_15.png
+  artifactKey: Guid(72d5c50dadc78f742877e7b90d6689fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_GameAssets/Sprite/Tiles1/tileBrown_15.png using Guid(72d5c50dadc78f742877e7b90d6689fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e6155a42fa35ecf920050209c0a275a') in 0.108879 seconds
+  Import took 0.142455 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031088 seconds.
+  path: Assets/_GameAssets/Sprite/Tiles1/tileBrown_15.png
+  artifactKey: Guid(72d5c50dadc78f742877e7b90d6689fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_GameAssets/Sprite/Tiles1/tileBrown_15.png using Guid(72d5c50dadc78f742877e7b90d6689fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e6155a42fa35ecf920050209c0a275a') in 0.063939 seconds
+  Import took 0.094888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 153.151585 seconds.
+  path: Assets/_GameAssets/Sprite/Tiles1/tileBrown_14.png
+  artifactKey: Guid(d6e54e32371b7d64b8ae0204b2c70aca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_GameAssets/Sprite/Tiles1/tileBrown_14.png using Guid(d6e54e32371b7d64b8ae0204b2c70aca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81875dff9f1910e63face4a80ebfedd9') in 0.104052 seconds
+  Import took 0.140548 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 517.019570 seconds.
+  path: Assets/_GameAssets/Sprite/Tiles1/tileBrown_16.png
+  artifactKey: Guid(05a6667eecf1aca4384447cda79acab8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_GameAssets/Sprite/Tiles1/tileBrown_16.png using Guid(05a6667eecf1aca4384447cda79acab8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b65dea28a805242ce6cc569c27f864e4') in 0.191010 seconds
+  Import took 0.224719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 296.835900 seconds.
+  path: Assets/_GameAssets/Prefab/tileBrown_23.prefab
+  artifactKey: Guid(05a5d65e60cfd4f0e917fcfa02cd61d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_GameAssets/Prefab/tileBrown_23.prefab using Guid(05a5d65e60cfd4f0e917fcfa02cd61d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36bfc9c230404a9422932a3d4b33d5b4') in 0.785548 seconds
+  Import took 0.829967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.137183 seconds.
+  path: Assets/_GameAssets/Prefab/tileBrown_25.prefab
+  artifactKey: Guid(0cdd35f413e16594883bd5d94cca1c19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_GameAssets/Prefab/tileBrown_25.prefab using Guid(0cdd35f413e16594883bd5d94cca1c19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfc9b72d61e00a7346409d1420928ae3') in 0.158332 seconds
+  Import took 0.187009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 283.315246 seconds.
+  path: Assets/_GameAssets/Prefab/New Prefab Brush.asset
+  artifactKey: Guid(2a485c00118624274bc81f0294102995) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_GameAssets/Prefab/New Prefab Brush.asset using Guid(2a485c00118624274bc81f0294102995) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e945884a112926ba27e50ac3a3d044a') in 0.566395 seconds
+  Import took 0.597517 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 66.408590 seconds.
+  path: Assets/_GameAssets/Sprite/Tilemap/Tiles
+  artifactKey: Guid(a4b96e08a92a0de42b0c2fd3c56516b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_GameAssets/Sprite/Tilemap/Tiles using Guid(a4b96e08a92a0de42b0c2fd3c56516b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99bebc850010116e5dfea79c78aaf7e6') in 0.123604 seconds
+  Import took 0.158870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 72.917142 seconds.
+  path: Assets/_GameAssets/Prefab/pppp.prefab
+  artifactKey: Guid(7ad893cac606148898af94498ff4c59b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_GameAssets/Prefab/pppp.prefab using Guid(7ad893cac606148898af94498ff4c59b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76f562e24922aa1ddc8d33078361cd83') in 0.068317 seconds
+  Import took 0.095470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 81.742827 seconds.
+  path: Assets/_GameAssets/Prefab/tileBrown_26.prefab
+  artifactKey: Guid(8e4520649f26b76499adafd1939ed015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_GameAssets/Prefab/tileBrown_26.prefab using Guid(8e4520649f26b76499adafd1939ed015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7469feb9463c4da4ab73d21aa9d11303') in 0.138904 seconds
+  Import took 0.171335 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.992965 seconds.
+  path: Assets/_GameAssets/Prefab/Modelo.prefab
+  artifactKey: Guid(432a0c6211bb34c47a56a50da385d988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_GameAssets/Prefab/Modelo.prefab using Guid(432a0c6211bb34c47a56a50da385d988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3620d09c862ec569e8d0de0b996c6e5c') in 0.036110 seconds
+  Import took 0.061466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.067263 seconds.
+  path: Assets/_GameAssets/Prefab/Modelo.prefab
+  artifactKey: Guid(432a0c6211bb34c47a56a50da385d988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_GameAssets/Prefab/Modelo.prefab using Guid(432a0c6211bb34c47a56a50da385d988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3620d09c862ec569e8d0de0b996c6e5c') in 0.015710 seconds
+  Import took 0.022185 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 229.828094 seconds.
+  path: Assets/_GameAssets/Prefab/PlataformaVerticalMovil.prefab
+  artifactKey: Guid(d8a3b3b16e6031d498fa4b4c3b91039e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_GameAssets/Prefab/PlataformaVerticalMovil.prefab using Guid(d8a3b3b16e6031d498fa4b4c3b91039e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1139465b29de14cb0156009e0f5975f') in 0.119846 seconds
+  Import took 0.165428 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 666.752197 seconds.
+  path: Assets/_GameAssets/Prefab/New Prefab Brush 1.asset
+  artifactKey: Guid(70bc51cfe475c47efb6eada5c90c65eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_GameAssets/Prefab/New Prefab Brush 1.asset using Guid(70bc51cfe475c47efb6eada5c90c65eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29370b71a1c6de016ef876494d48a239') in 0.014138 seconds
+  Import took 0.025584 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.420746 seconds.
+  path: Assets/_GameAssets/Prefab/Caramelo.prefab
+  artifactKey: Guid(b94fdcc77450e8d4a864ae665bf0d146) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_GameAssets/Prefab/Caramelo.prefab using Guid(b94fdcc77450e8d4a864ae665bf0d146) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '301e1e0c7fabaeaf580af08a138ebe88') in 0.575438 seconds
+  Import took 0.610336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 78.660136 seconds.
+  path: Assets/_GameAssets/Prefab/New Prefab brush prueba.asset
+  artifactKey: Guid(2a485c00118624274bc81f0294102995) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_GameAssets/Prefab/New Prefab brush prueba.asset using Guid(2a485c00118624274bc81f0294102995) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db2455c9584f850907fa86201fc63ffa') in 0.234910 seconds
+  Import took 0.269924 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 117.641551 seconds.
+  path: Assets/_GameAssets/Prefab/Monstruo.prefab
+  artifactKey: Guid(795feee2448278e4b886e10f8bc54611) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_GameAssets/Prefab/Monstruo.prefab using Guid(795feee2448278e4b886e10f8bc54611) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b08e1f4f5f5fa77e4f43364b44365a2') in 0.298963 seconds
+  Import took 0.318468 seconds .
+
